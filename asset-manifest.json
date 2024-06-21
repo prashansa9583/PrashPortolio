@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PrashPortolio/static/css/main.2ad2917c.css",
-    "main.js": "/PrashPortolio/static/js/main.731bc009.js",
+    "main.js": "/PrashPortolio/static/js/main.de97cd33.js",
     "static/js/453.27245123.chunk.js": "/PrashPortolio/static/js/453.27245123.chunk.js",
     "static/media/bgvd.mp4": "/PrashPortolio/static/media/bgvd.250e3a9dcee90b1548ad.mp4",
     "static/media/portfolioimg2.png": "/PrashPortolio/static/media/portfolioimg2.f3fa8d35a0b6b43a1d34.png",
@@ -12,7 +12,7 @@
     "static/media/header-img.svg": "/PrashPortolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/project-img2.png": "/PrashPortolio/static/media/project-img2.3ed89c69f280913f7e50.png",
     "static/media/project-img3.png": "/PrashPortolio/static/media/project-img3.64da2cd339fbbe320b25.png",
-    "static/media/PrashansaErande1021169.pdf": "/PrashPortolio/static/media/PrashansaErande1021169.51cff49026fbe7b69823.pdf",
+    "static/media/PrashansaErande_June2024.pdf": "/PrashPortolio/static/media/PrashansaErande_June2024.672cf7d5b4033cee3173.pdf",
     "static/media/event-image3.jpg": "/PrashPortolio/static/media/event-image3.5d7265df98d8e863b1ec.jpg",
     "static/media/extrac-image1.jpeg": "/PrashPortolio/static/media/extrac-image1.14876caea8e4db4ea1e4.jpeg",
     "static/media/extrac-image3.jpeg": "/PrashPortolio/static/media/extrac-image3.6c87fa85cbad26947cd0.jpeg",
@@ -37,11 +37,11 @@
     "static/media/nav-icon1.svg": "/PrashPortolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/PrashPortolio/index.html",
     "main.2ad2917c.css.map": "/PrashPortolio/static/css/main.2ad2917c.css.map",
-    "main.731bc009.js.map": "/PrashPortolio/static/js/main.731bc009.js.map",
+    "main.de97cd33.js.map": "/PrashPortolio/static/js/main.de97cd33.js.map",
     "453.27245123.chunk.js.map": "/PrashPortolio/static/js/453.27245123.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad2917c.css",
-    "static/js/main.731bc009.js"
+    "static/js/main.de97cd33.js"
   ]
 }

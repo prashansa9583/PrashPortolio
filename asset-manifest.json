@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PrashPortolio/static/css/main.2ad2917c.css",
-    "main.js": "/PrashPortolio/static/js/main.cbcc7d16.js",
+    "main.js": "/PrashPortolio/static/js/main.731bc009.js",
     "static/js/453.27245123.chunk.js": "/PrashPortolio/static/js/453.27245123.chunk.js",
     "static/media/bgvd.mp4": "/PrashPortolio/static/media/bgvd.250e3a9dcee90b1548ad.mp4",
     "static/media/portfolioimg2.png": "/PrashPortolio/static/media/portfolioimg2.f3fa8d35a0b6b43a1d34.png",
@@ -34,14 +34,14 @@
     "static/media/logo.svg": "/PrashPortolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/nav-icon3.svg": "/PrashPortolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/nav-icon2.svg": "/PrashPortolio/static/media/nav-icon2.ef973264744c47f94bfb39f1850d68ae.svg",
-    "index.html": "/PrashPortolio/index.html",
     "static/media/nav-icon1.svg": "/PrashPortolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/PrashPortolio/index.html",
     "main.2ad2917c.css.map": "/PrashPortolio/static/css/main.2ad2917c.css.map",
-    "main.cbcc7d16.js.map": "/PrashPortolio/static/js/main.cbcc7d16.js.map",
+    "main.731bc009.js.map": "/PrashPortolio/static/js/main.731bc009.js.map",
     "453.27245123.chunk.js.map": "/PrashPortolio/static/js/453.27245123.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad2917c.css",
-    "static/js/main.cbcc7d16.js"
+    "static/js/main.731bc009.js"
   ]
 }
